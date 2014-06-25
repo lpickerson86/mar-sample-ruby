@@ -27,9 +27,22 @@ Clone / fork this repo to your local computer.
 **NOTE!** Please test the application on your local computer before proceeding to the next step!
 
 ## Deploy To Managed Application Runtime
+
+Managed Application Runtime uses Git for deployment, so first you need to have Git installed and SSH keys configured.
+
+### Setting up Git remote
+
+First you need to copy "Git Remote" value from your application instances configure tab in Qt Cloud Services management console.
+Then you can setup Git remote using following command inside you application root folder:
+
+```
+$ git remote add qtc <Git Remote>
+```
+
 You can deploy application with command 
 ```
-git push runtime master
+$ git push runtime master
 ```
+
 ## Next Steps
 You are now ready to learn more about the [Key Concepts](https://developer.qtcloudservices.com/mar/key-concepts) of MAR. We hope you will find this documentation helpful!
