@@ -1,9 +1,9 @@
 sinatra-hello-world
 ===================
 
-This is a example Ruby application that can be deployed to Qt Cloud Services Managed Application Runtime
+This is a example Ruby application that can be deployed to [Qt Cloud Services](https://www.qtcloudservices.com)
 
-# Getting Started with Managed Application Runtime
+## Getting Started with Managed Application Runtime
 Before running through the Managed Application Runtime (**"MAR"**) getting started guide, please make sure that you can access the [management console](https://console.qtcloudservices.com). You will need a valid Qt Account or a Github account to access the management console.
 
 ## Setting Up Your First MAR Instance
@@ -28,7 +28,8 @@ Clone / fork this repo to your local computer.
 
 ## Deploy To Managed Application Runtime
 You can deploy application with command 
-´´´git push runtime master
-
+```
+git push runtime master
+```
 ## Next Steps
 You are now ready to learn more about the [Key Concepts](https://developer.qtcloudservices.com/mar/key-concepts) of MAR. We hope you will find this documentation helpful!
