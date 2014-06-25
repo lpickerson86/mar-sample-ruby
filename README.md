@@ -39,7 +39,7 @@ Then you can setup Git remote using following command inside you application roo
 $ git remote add qtc <Git Remote>
 ```
 
-You can deploy application with command 
+After that you can deploy application with command
 ```
 $ git push runtime master
 ```
