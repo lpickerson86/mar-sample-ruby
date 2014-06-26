@@ -41,7 +41,7 @@ $ git remote add qtc <Git Remote>
 
 After that you can deploy application with command
 ```
-$ git push runtime master
+$ git push qtc master
 ```
 
 ## Next Steps
