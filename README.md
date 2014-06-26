@@ -1,4 +1,4 @@
-sinatra-hello-world
+MAR Sample Ruby/Sinatra
 ===================
 
 This is a example Ruby application that can be deployed to [Qt Cloud Services](https://www.qtcloudservices.com)
