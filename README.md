@@ -1,4 +1,4 @@
-MAR Sample Ruby/Sinatra
+MAR Sample Ruby/Sinatra DEMO
 ===================
 
 This is a example Ruby application that can be deployed to [Qt Cloud Services](https://www.qtcloudservices.com)
